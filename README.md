@@ -1,5 +1,5 @@
 # 💫 SOBRE MIM:
-📚Aprendendo Python, IA, Dados e Desenvolvimento Web<br>👨‍💻Em busca de oportunidades de experiência em programação<br>👨‍🏫Quero expandir minha rede de conhecimento e pessoas na área Tech<br>🌍Criando novos projetos para mudar o mundo
+📚Aprendendo IA, Dados e Desenvolvimento Web<br>👨‍💻Em busca de oportunidades de experiência em programação<br>👨‍🏫Quero expandir minha rede de conhecimento e pessoas na área Tech<br>🌍Criando novos projetos para mudar o mundo
 
 
 ## 🌐 REDES SOCIAIS:
