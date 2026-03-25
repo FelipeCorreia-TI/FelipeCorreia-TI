@@ -1,36 +1,36 @@
-# 💫 SOBRE MIM:
-📚Aprendendo Desenvolvimento de software, desenvolvimento web, Inteligência artificial e dados<br>👨‍💻Em busca de oportunidades de experiência em programação<br>👨‍🏫Quero expandir minha rede de conhecimento e pessoas na área Tech<br>🌍Criando novos projetos para mudar o mundo
+# Olá! Meu nome é Felipe Correia
+Seja Bem-Vindo ao meu github
 
+- 🖥️ Aspirante a desenvolvedor buscando expandir os conhecimentos em programação
+- 🌱 Aprendendo Desenvolvimento de software, desenvolvimento web, Inteligência artificial e dados
+- 🌍 Criando novos projetos para mudar o mundo
 
-## 🌐 REDES SOCIAIS:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felipecorreiajardim) 
-
-
-# 💻 STACKS:
-**Linguagens**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)   
-
-**Cloud** 
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
-
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
-
-**Versionamento**
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-
+<br>
 
 # 📊 GITHUB STATUS:
-![](https://github-readme-stats.vercel.app/api?username=FelipeCorreia-TI&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FelipeCorreia-TI&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCorreia-TI&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCorreia-TI&theme=dark&show_icons=true"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCorreia-TI&layout=compact&langs_count=4&theme=dark"/>
+</div>
+
+<br>
+
+# 💻Stacks:
+<div style="display: inline_block"><br>
+  <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Felipe-Mysql" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Felipe-Azure" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
+</div>
+
+#
+
+<div>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/felipecorreiajardim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
