@@ -3,11 +3,13 @@ Seja Bem-Vindo ao meu github
 
 - 🖥️ Aspirante a desenvolvedor buscando expandir os conhecimentos em programação
 - 🌱 Aprendendo Desenvolvimento de software, desenvolvimento web, Inteligência artificial e dados
-- 🌍 Criando novos projetos para mudar o mundo
+-  🌍 Criando novos projetos para mudar o mundo
 
 <br>
 
-# 📊 GITHUB STATUS:
+
+
+## 📊 GITHUB STATUS:
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCorreia-TI&theme=dark&show_icons=true"/>
 
@@ -16,7 +18,7 @@ Seja Bem-Vindo ao meu github
 
 <br>
 
-# 💻Stacks:
+## 💻Stacks:
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
