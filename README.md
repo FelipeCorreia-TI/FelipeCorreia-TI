@@ -94,9 +94,9 @@ Me chamo Felipe Correia, atualmente tenho 17 anos, estou cursando técnico em de
 
 ### 📊 Github Status:
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCorreia-TI&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCorreia-TI&theme=holi&show_icons=true"/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCorreia-TI&layout=compact&langs_count=4&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCorreia-TI&layout=compact&langs_count=4&theme=holi"/>
 </div>
 
 
