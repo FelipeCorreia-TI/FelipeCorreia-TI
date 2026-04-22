@@ -51,7 +51,6 @@ Me chamo Felipe Correia, atualmente tenho 17 anos, estou cursando técnico em de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
@@ -86,6 +85,14 @@ Me chamo Felipe Correia, atualmente tenho 17 anos, estou cursando técnico em de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Delphi" 
+    title="Delphi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -99,5 +106,5 @@ Me chamo Felipe Correia, atualmente tenho 17 anos, estou cursando técnico em de
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeCorreia-TI&layout=compact&langs_count=4&theme=holi"/>
 </div>
 
-
-
+### Vamos nos conectar? 🔗
+<div><a href="www.linkedin.com/in/felipecorreiajardim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
