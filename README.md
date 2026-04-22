@@ -107,4 +107,4 @@ Me chamo Felipe Correia, atualmente tenho 17 anos, estou cursando técnico em de
 </div>
 
 ### Vamos nos conectar? 🔗
-<div><a href="www.linkedin.com/in/felipecorreiajardim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
+<div><a href="https://www.linkedin.com/in/felipecorreiajardim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
