@@ -1,7 +1,7 @@
 ## 💻Felipe Correia
 **`Desenvolvedor de Software`**
 
-Me chamo Felipe Correia, atualmente tenho 17 anos, estou cursando técnico em desenvolvimento de sistemas. Sou um aspirante a desenvolvedor, em busca de criar novos projetos, conheçer pessoas da área e expandir meus conhecimentos técnicos. Tenho uma paixão imensa por técnologia e aprendizado, através das minhas soluções busco tornar o mundo melhor.
+Me chamo Felipe Correia, atualmente tenho 18 anos, estou cursando técnico em desenvolvimento de sistemas. Sou um aspirante a desenvolvedor, em busca de criar novos projetos, conheçer pessoas da área e expandir meus conhecimentos técnicos. Tenho uma paixão imensa por técnologia e aprendizado, através das minhas soluções busco tornar o mundo melhor.
 
 <br>
 
