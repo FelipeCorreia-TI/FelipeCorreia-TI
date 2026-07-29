@@ -59,6 +59,22 @@ Me chamo Felipe Correia, atualmente tenho 18 anos, estou cursando técnico em de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Node.js" 
+    title="Node.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Delphi" 
+    title="Delphi"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
+/>
 
 <img 
     align="left" 
@@ -85,14 +101,7 @@ Me chamo Felipe Correia, atualmente tenho 18 anos, estou cursando técnico em de
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Delphi" 
-    title="Delphi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/delphi/delphi-original.svg" 
-/>
+
 
 <br/>
 <br/>
