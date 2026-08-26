@@ -109,11 +109,6 @@ Me chamo Felipe Correia, atualmente tenho 18 anos, estou cursando técnico em de
 
 
 ### 📊 Github Status:
-<div>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=FelipeCorreia-TI&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=FelipeCorreia-TI&rank_icon=default&hide_rank=true&hide_title=true&show_icons=true&include_all_commits=true&theme=dark"/>
-
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=FelipeCorreia-TI&layout=compact&langs_count=6&hide_values=true&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=FelipeCorreia-TI&layout=compact&langs_count=6&hide_values=true&theme=dark"/>
-</div>
-
+Maintenance 🏗
 ### Vamos nos conectar? 🔗
 <div><a href="https://www.linkedin.com/in/felipecorreiajardim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> </div>
